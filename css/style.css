@@ -1,6 +1,6 @@
 @import url("reset.css");
 .list{
-	color: #faf7f7;
+	color: rgb(250, 247, 247);
 }
 
 .list a[href="#bio"] {
@@ -16,8 +16,8 @@
 	color: #500350;
 }
 
-p{
-	color: gray;
+h1{
+	color: white;
 }
 
 footer p a {
@@ -28,3 +28,5 @@ footer p a {
 #gallery p {
     background-color: lightgray;
 }
+
+
