@@ -1,0 +1,30 @@
+@import url("reset.css");
+.list{
+	color: #faf7f7;
+}
+
+.list a[href="#bio"] {
+	color: red;
+}
+
+#bio p{
+	color: red;
+}
+
+
+[class*="item-strong"]{
+	color: #500350;
+}
+
+p{
+	color: gray;
+}
+
+footer p a {
+	color: blue;
+}
+
+#history p,
+#gallery p {
+    background-color: lightgray;
+}
