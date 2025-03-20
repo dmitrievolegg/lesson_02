@@ -29,4 +29,23 @@ footer p a {
     background-color: lightgray;
 }
 
+/* FIX HW */
 
+.title.heading,
+.reddit {
+	color: purple;
+}
+
+
+
+h2 + p {
+	color: darkblue;
+}
+
+h2 ~ p {
+	color: darkred;
+}
+
+ul > li:not(.reddit) {
+	color: darkgreen !important;
+}
